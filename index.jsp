@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Devops Register Form</h1>
-<form action="devops_register" method="post">
+<form action="devops_register.jsp" method="post">
 
 <img src="https://www.hit.ac.il/.upload/minisites/HIT_50/uses/HIT_logo_50_years_c.jpg" alt="HIT logo" width="300" height="180">
 			<table style="with: 50%">
