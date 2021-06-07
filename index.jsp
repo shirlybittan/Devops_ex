@@ -36,7 +36,7 @@
 					<td>Contact No</td>
 					<td><input type="text" name="contact" /></td>
 				</tr></table>
-			<input type="submit" value="Submit!" /></form>
+			<input type="submit" value="Submit" /></form>
 			<img src="https://www.dogma.co.il/wp-content/uploads/2020/08/Dev_Ops.jpg" alt="Devops explained" width="800" height="500">
 </body>
 </html>
